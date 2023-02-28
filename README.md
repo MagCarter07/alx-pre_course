@@ -1,2 +1,1 @@
-# alx-pre_course
-My learning workspace for the ALX Software Engineering program.
+My first readme file. This project is about getting conversant with github and git tools.
